@@ -1,0 +1,45 @@
+.add{
+    margin-left: 23%;
+}
+.latest{
+    border: 1px solid rgba(255,255,255,0.3);
+    box-shadow: 2px 2px 15px rgba(0,0,0,0.3);
+    margin: 10px;
+    padding: 15px;
+}
+input#item{   
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    outline: 0;
+    padding: 7px;
+    background-color: #fff;
+    box-shadow: inset 1px 1px 5px rgba(0,0,0,0.3);
+}
+
+#addbtn{   
+    padding: 5px;
+    font-size: 13px;
+    font-weight: 550;
+    border-radius: 3px;
+    background-color: rgb(93, 180, 224);
+    color: #fff;
+    cursor: pointer;
+}
+#updtbtn{   
+    padding: 5px;
+    font-size: 13px;
+    font-weight: 550;
+    border-radius: 3px;
+    background-color: rgb(210, 221, 8);
+    color: #fff;
+    cursor: pointer;
+}
+#delbtn{   
+    padding: 5px;
+    font-size: 13px;
+    font-weight: 550;
+    border-radius: 3px;
+    background-color: rgba(255, 28, 28, 0.8);
+    color: #fff;
+    cursor: pointer;
+}
